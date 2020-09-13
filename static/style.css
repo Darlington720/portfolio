@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    text-decoration: underline blue;
+    text-shadow: aliceblue;
+}
+
+body {
+    color:  white;
+    background-color: aliceblue;
+    background-image: url('image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+
+p {
+    border: 5px yellowgreen solid ;
+}
